@@ -1,2 +1,2 @@
-# hello-world
-Learning how to create my 1st repository
+# hello github!
+Nothing but a plain git repo..
